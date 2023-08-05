@@ -1,0 +1,24 @@
+.THIS.container {
+    margin: -12px;
+    background: white;
+}
+
+.THIS .green {
+    color: green;
+    font-weight: bold;
+}
+
+.THIS .yellow {
+    color: #baba00;
+    font-weight: bold;
+}
+
+.THIS .orange {
+    color: orange;
+    font-weight: bold;
+}
+
+.THIS .red {
+    color: red;
+    font-weight: bold;
+}
